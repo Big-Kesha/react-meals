@@ -1,1 +1,1 @@
-mt(empty)
+https://big-kesha.github.io/react-meals/?search=
